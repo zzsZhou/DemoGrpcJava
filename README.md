@@ -1,0 +1,3 @@
+# DemoGrpcJava
+
+参照grpc官方依赖，实现java的client与server的grpc明文及TLS通信
